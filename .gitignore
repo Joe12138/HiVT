@@ -112,4 +112,4 @@ venv.bak/
 lightning_logs/
 .DS_Store
 
-.pt
+*.pt
