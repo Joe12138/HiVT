@@ -12,3 +12,4 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 from datasets.argoverse_v1_dataset import ArgoverseV1Dataset
+from datasets.interaction_v1_daatset import InteractionDataset

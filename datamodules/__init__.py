@@ -12,3 +12,4 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 from datamodules.argoverse_v1_datamodule import ArgoverseV1DataModule
+from datamodules.interaction_v1_datamodule import InteractionV1DataModule
